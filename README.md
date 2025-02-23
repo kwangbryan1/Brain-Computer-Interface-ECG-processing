@@ -5,5 +5,5 @@ keyboard and allow patients with speech disorders to communicate with their surr
 
 **Data source**
 The EEG data, sourced from the PhysioNet eeg-mmidb database, was collected using the BCI200 EEG system with 64 channels at 160 Hz. The dataset includes 20 subjects performing 5 motor imagery (MI) tasks, labeled 0 to 4, for model training.
-![Logo]("C:\Users\kwang\Pictures\Screenshots\Screenshot 2025-02-23 214208.png")
+![Logo](C:\Users\kwang\Pictures\Screenshots\Screenshot 2025-02-23 214208.png)
 
